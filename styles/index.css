@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+}
+
+:root {
+    --cor-fundo-sessao1: linear-gradient(to bottom, #47126b, #ac46a1);
+    --cor-fundo-formulario: linear-gradient(to top right, #ac46a1, #6d23b6);
+    --cor-fonte-titulo: #FFFFFF;
+    --cor-fonte-botao: #FFFFFF;
+    --cor-botao: #6411ad;
+    --cor-hover: #7209b7;
+    --cor-erros: #d81159;
+    --fonte-titulo: 'Poppins',sans-serif;
+    --fonte-texto: 'Montserrat', sans-serif;
+    --peso-titulo:600;
+    --peso-texto:400;
+    --tamanho-titulo:24px;
+    --tamanho-texto:20px;
+}
+body {
+  background: var(--cor-fundo-sessao1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+  .pagina__conteudo {
+    display: flex;
+}
+
+  .pagina__conteudo-formulario {
+    background: var(--cor-fundo-formulario);
+    display: flex;
+    width: 75vw;  
+    max-width: 1200px;
+    height: 250px;
+    margin: 50px 50px 50px 50px;
+    padding: 30px;
+    border: 1px solid var(--cor-fundo-pagina);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .conteudo__busca {
+    color: var(--cor-fonte-botao);
+    font-family: var(--fonte-titulo);
+    font-size: var(--tamanho-texto);
+    font-weight: var(--peso-titulo);
+    margin-bottom: 2px;
+  }
+
+  .resultados__titulo {
+    font-family: var(--fonte-titulo);
+    font-weight: var(--peso-titulo);
+    font-size: var(--tamanho-titulo);
+    margin: 10px 0 20px 0;
+    color:var(--cor-fonte-titulo);
+    text-align: center;
+
+}
+  #erros {
+    color: var(--cor-erros);
+  }
+
+  #busca-input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font: var(--fonte-texto);
+    color: var(--cor-hover);
+    font-weight: var(--peso-texto);
+  }
+    
+  #busca-button {
+    background-color: var(--cor-botao);
+    color:var(--cor-fonte-botao);
+    width: 300px;
+    margin-top: 20px;
+    align-items: center;
+    padding: 10px 10px;
+    border: 2px solid var(--cor-fundo-cabecalho);
+    border-radius: 5px;
+    cursor: pointer;
+    font: var(--fonte-titulo);
+    font-size: var(--tamanho-titulo);
+    font-weight: var(--peso-titulo);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+         
+  }
+
+  #busca-button:hover {
+    background-color: var(--cor-hover);
+  }
+
+  @media screen and (max-width: 768px){
+    .conteudo {
+      max-width: 80%;
+    }
+  }
+
+  @media screen and (max-width: 460px){
+    .conteudo {
+      max-width: 90%;
+    }
+ 
+  }
+
+  .artista-titulo {
+    display: flex; 
+    align-items: center;
+    color: var(--cor-fonte-titulo);
+    font-family: var(--fonte-titulo);
+    font-weight: var(--peso-titulo);
+    font-size: var(--tamanho-titulo);
+  }
+
+
+   #streaming-containers {
+    width: 75vw;
+    max-width: 1200px;
+    height: 300px;
+    margin: 50px 50px 50px 50px;
+    padding: 30px;
+    border: 1px solid var(--cor-fundo-pagina);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display:none;
+    background-color: var(--cor-fundo-formulario);
+    overflow: auto;
+    justify-content: space-between;
+    
+  }
+  .streaming-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+  .info-container {
+    display:flex;
+    flex-direction:column;
+     align-items: center;
+  }
+
+  .streaming-info {
+    font: var(--fonte-texto);
+    font-size: var(--tamanho-texto);
+    font-weight: var(--peso-titulo);
+    color: var(--cor-fonte-titulo);
+    text-align: center;
+    }
+
+  .erro {
+    color: var(--cor-erros);
+  }
+
+  .streaming-containers__logo {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .pagina__cabecalho-logo {
+    align-items: center;
+  }
+
+  .streaming-imagem {
+  text-align: center;
+  }

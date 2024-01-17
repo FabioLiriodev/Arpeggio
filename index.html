@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arpeggio | Comparador de streamings de música! </title>
+  <link rel="stylesheet" href="styles/header.css">
+  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/footer.css">
+</head>
+
+<body class="pagina">
+    <section class="pagina__cabecalho">
+        <img class="pagina__cabecalho-logo" src="/img/Logo.png" alt="logo do arpeggio">
+    </section>
+    <section class="pagina__conteudo">
+        <div class="pagina__conteudo-formulario">
+           <h2 class="resultados__titulo"> Qual é o streaming de música mais vantajoso para você?</h2>
+          <label class="conteudo__busca" for="busca-input">Buscar artista ou banda:</label>
+          <input type="text" id="busca-input" placeholder="Digite o nome da banda ou artista">
+    <div class="busca__botao">
+      <button id="busca-button" onclick="realizarBusca()">Buscar</button>
+    </div>
+    </div>
+</section>
+<section class="pesquisa">
+  <div class="conteudo__resultados" id="erros"></div>
+        <div class="conteudo__busca-resultado" id="streaming-containers">
+        <img class="streaming-containers__logo" src="/img/spotify.png" alt="logo do Spotify">
+        <img class="streaming-containers__logo" src="/img/deezer.png" alt="logo do Deezer">
+        <img class="streaming-containers__logo" src="/img/youtube music.png.png" alt="logo do Youtube Music">
+  </div>
+</section>
+  <img class="pagina__cabecalho-logo" src="img/Logo.png" alt="logo do arpeggio">
+  <script src="script.js"></script>
+  </body>

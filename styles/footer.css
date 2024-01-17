@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+}
+
+:root {
+   --cor-fundo: #7209b7;
+}
+
+.rodape {
+    background-color: var(--cor-fundo);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}
+
+.rodape__logo {
+    width: 150px;
+    height: 150px;
+    
+    
+}
