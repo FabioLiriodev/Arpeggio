@@ -18,8 +18,12 @@
 - Funcionalidades
 
 - Como usar o aplicativo?
+
+- Desafios encontrados durante a execução do projeto
   
 - Pessoas desenvolvedoras do projeto
+
+- Perspectivas futuras
 
 
 
@@ -82,8 +86,9 @@ As demonstrações das tipografias podem ser visualizadas na imagem abaixo:
 
 <h4> 🤔 Imagens 🤔 </h4>
 
+As imagens usadas no projeto foram obtidas através de engenharia de prompt com uso das Inteligências Artificiais Gencraft e Microsoft Copilot. Todas as imagens seguem a temática cyberpunk com cores de fundo que remetem a paleta de cores selecionada pelo desenvolvedor. 
 
-
+Primeiramente, as imagens foram geradas em resoluções de 1024px x 1024px e foram posteriormente convertidas em dimensões mais adequadas para cada tamanho de tela, considerando os breakpoints principais. A conversão das imagens foi executada no site https://nsimage.brosteins.com/ .
 
 <h2> 🚀 Tecnologias 🚀</h2>
 
@@ -93,6 +98,7 @@ As demonstrações das tipografias podem ser visualizadas na imagem abaixo:
 <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openai&logoColor=black">
+<img src="https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=white">
   
 </div>
 
@@ -132,6 +138,14 @@ No primeiro input, o usuário deve digitar o nome da sua banda, artista ou podca
 
 Os inputs do tipo rádio (tipo e região) deverão ser assinalados pelo usuário para que a busca funcione adequadamente. Após o usuário preencher as informações, basta clicar no botão Buscar e aguardar o resultado da busca.
 
+Na versão mobile, o resultado será exibido abaixo do formulário de busca e nas versões de tablet e desktop o resultado será exibido ao lado do formulário de busca.
+
+<h2> 🧗‍♂️ Desafios encontrados na execução do projeto 🧗‍♂️ </h2>
+
+Este foi o primeiro projeto real que tive a oportunidade de desenvolver como desenvolvedor Front-end. Antes, só havia executado projetos guiados nos cursos da Escola de Tecnologia da Alura e alguns challenges que me trouxeram um panorama um pouco mais real do que é o desenvolvimento Front-end.
+
+Certamente, o maior desafio existente no desenvolvimento do Arpeggio foi na integração entre o Back-end e o Front-end através do uso das APIs de cada serviço de streaming musical. No início, tive dificuldades com Javascript, pois ainda não havia aprofundado meus estudos nesta linguagem de programação. Depois de algum tempo de estudo e usando ferramentas de Inteligência Artificial para me ajudar a entender a lógica de programação mais avançada, consegui vencer a barreira e executar a integração, de modo a exibir os resultados provenientes no JSON no aplicativo.
+
 
 <h2> 💻 Pessoas desenvolvedoras do projeto 💻</h2>
 
@@ -139,5 +153,9 @@ Os inputs do tipo rádio (tipo e região) deverão ser assinalados pelo usuário
 
 [<img src="https://avatars.githubusercontent.com/u/140852220?s=400&u=c03075cdb745198fe290f16fd7a345907cae4c89&v=4" width=100><br><sub>Fábio Lirio</sub>](https://github.com/FabioLiriodev)
 
+<h2> 🔭 Perspectivas futuras 🔭 </h2>
 
+O desenvolvimento do Arpeggio contribuiu de forma direta para o aprendizado de HTML, CSS e JS, principalmente no sentido de resolução de desafios ligados a lógica de programação. Além disso, o projeto proporcionou uma ampliação do potencial criativo que todo desenvolvedor Front-end deve apresentar.
+
+Como perspectivas futuras, penso que o projeto trouxe novas ideias de aplicativos que resultem em soluções tecnológicas interessantes e que contribuam para minha formação na área de programação e desenvolvimento Front-end.
 
