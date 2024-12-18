@@ -27,7 +27,62 @@
 
 >>**Arpeggio** é um aplicativo de comparação de streaming de músicas em que o usuário pode analisar previamente o número de álbuns (singles e EPs) de seu artista banda, ou podcast favoritos antes de fazer a assinatura de um serviço de streaming musical.Este aplicativo funciona usando as APIs dos principais serviços de streaming de música disponíveis (Spotify, Deezer, Tidal e Youtube Music).</p>
 
-<h2>  Estilização do projeto </h2>
+<h2> 🖌️  Estilização do projeto 🖌️ </h2>
+
+Inicialmente, o projeto foi prototipado no Figma considerando o desenvolvimento de 3 frames para cada uma das páginas do HTML. As dimensões usadas na prototipagem foram:
+
+- Telas pequenas (mobile): 360px de largura;
+
+- Telas médias (tablet): 768px de largura;
+
+- Telas grandes (desktop): 1440px de largura;
+
+O protótipo do Arpeggio pode ser acessado no Figma através do link: 
+
+<h3> 	💭 Concepção do produto 	💭 </h3>
+
+O Arpeggio é um aplicativo que tem como principal característica a modernidade derivada do rápido avanço tecnológico da indústria musical nos últimos 40 anos. Contudo, o avanço tecnológico experimentado em muitos segmentos gerou uma grande dificuldade de seleção de serviços de streaming de música justamente pela diversidade de opções disponíveis para consumo de músicas e podcasts.
+
+Tendo em vista este cenário, o desenvolvedor optou por escolher uma temática futurística relacionada à cultura cyberpunk como pode ser observada em clássicos do cinema como o filme Blade Runner, ou em gêneros musicais como o synthwave, marcados por músicas futurísticas com sintetizadores.
+
+<h4> 🤔 Logotipo 🤔 </h4>
+
+O logotipo do Arpeggio foi desenvolvido no aplicativo Canva através de elementos previamente disponíveis na biblioteca do aplicativo. O logotipo foi idealizado para que o produto tivesse a imagem de um seletor de música, diferente de um reprodutor musical. Dessa maneira, a nota musical representa seu tema principal e o círculo tracejado ao fundo remete a capa de álbuns e playlists do estilo synthwave disponíveis no Spotify, como representado na figura a seguir.
+
+<div align="center">
+
+![synthwave](https://github.com/user-attachments/assets/27d18740-578a-4eca-adb3-e48dc929e2dd)
+
+
+</div>
+
+<h4> 🤔 Paleta de cores 🤔 </h4>
+
+A paleta de cores selecionada para o projeto foi obtida com o auxílio do site https://coolors.co/, mas cada cor foi individualmente ponderada pelo desenvolvedor Front-End. Esta paleta de cores pode ser observada na figura abaixo.
+
+<picture>![Figura 1.Paleta de cores do Arpeggio](https://github.com/user-attachments/assets/bd7f6157-c786-44da-a533-82af1a022ecd)</picture>
+
+É importante reforçar que a paleta de cores envolve a seleção de cores mais frias como roxo e rosa, mas em tons mais fortes o que está de acordo com a referência que no caso é a iluminação das cidades cyberpunk com letreiros de neon, tanto com cores frias quanto cores quentes em tons mais fortes. Também foram usadas cores mais tradicionais como tons de cinza, preto e branco para completar a paleta de cores.
+
+<h4> 🤔 Tipografia 🤔 </h4>
+
+Com o objetivo de transmitir uma imagem mais futurística foi feita uma varredura de possibilidades de tipografias que representassem fontes mais modernas, porém com uma alta legibilidade, característica fundamental sobretudo em telas menores como dispositivos mobile. O ChatGPT foi usado como ferramenta para sugerir estilos de fontes possíveis.
+
+Após a varredura, o desenvolvedor analisou criteriosamente os dados obtidos pelo ChatGPT e selecionou as seguintes fontes para manter a identidade futurística cyberpunk relacionada ao Arpeggio:
+
+- Fonte dos títulos: **"Roboto Condensed", sans-serif**;
+- Fonte dos textos: **"Lexend", sans-serif**;
+
+As demonstrações das tipografias podem ser visualizadas na imagem abaixo:
+
+![image](https://github.com/user-attachments/assets/e0449f26-242e-4a06-be8d-41b94eaeb21d)
+
+![image](https://github.com/user-attachments/assets/34a38283-157e-4ca3-b3d4-e5ec5a67ea8b)
+
+
+<h4> 🤔 Imagens 🤔 </h4>
+
+
 
 
 <h2> 🚀 Tecnologias 🚀</h2>
