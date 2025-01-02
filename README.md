@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Logo do Arpeggio](https://github.com/FabioLiriodev/Arpeggio/assets/140852220/f0cebc80-3024-4896-9778-94afe7eaf6ff)
+![logo-novo (2)](https://github.com/user-attachments/assets/a76a119b-d717-4bb7-96bb-b6b939c11444)
+
 </div>
 
 <h2> 📖 Índice 📖 </h2>
@@ -51,7 +52,41 @@ Tendo em vista este cenário, o desenvolvedor optou por escolher uma temática f
 
 <h4> 🤔 Logotipo 🤔 </h4>
 
-O logotipo do Arpeggio foi desenvolvido no aplicativo Canva através de elementos previamente disponíveis na biblioteca do aplicativo. O logotipo foi idealizado para que o produto tivesse a imagem de um seletor de música, diferente de um reprodutor musical. Dessa maneira, a nota musical representa seu tema principal e o círculo tracejado ao fundo remete ao estilo synthwave retrô como é possível observar no painel semântico no Behance cujo link é: https://www.behance.net/moodboard/217154785/Synthwave.
+O logotipo do Arpeggio foi desenvolvido no Figma através dos recursos de manipulação de formas geométricas. O logotipo foi idealizado para que o produto tivesse a imagem de um seletor de música, diferente de um reprodutor musical. Dessa maneira, a nota musical representa seu tema principal e o círculo tracejado ao fundo remete ao estilo synthwave retrô como é possível observar em algumas artes disponíveis no painel semântico no Behance cujo link é: https://www.behance.net/moodboard/217154785/Synthwave.
+
+Além disso, vale ressaltar que a tipografia escolhida para a logo foi a fonte Orbitron que está associada a um conceito futurístico, como é a proposta gráfica do projeto. A proporção áurea foi utilizada no ajuste de proporção entre altura e largura nas versões horizontais e verticais da logo.
+
+Após o desenvolvimento da ideação no Figma, o resultado obtido foi:
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/e04ebedf-d36f-439e-a8e4-9d73fbcd0b25)
+
+![image](https://github.com/user-attachments/assets/3cc8bed5-26e7-45b0-87ea-fd4c1a8ea681)
+
+
+
+</div>
+
+As versões monocromáticas propostas como alternativa para a versão colorida são:
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/9ce3f0f7-c756-4587-b2bc-136e014558a4)
+
+![image](https://github.com/user-attachments/assets/71347d7b-0066-475e-bb5e-4b3e4a937396)
+
+</div>
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/254ab221-04f0-4c04-8763-dae5c19dcac6)
+
+![image](https://github.com/user-attachments/assets/3281eef5-76c8-4961-ad59-96594517e7f8)
+
+
+</div>
+
 
 <h4> 🤔 Paleta de cores 🤔 </h4>
 
