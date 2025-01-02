@@ -51,14 +51,7 @@ Tendo em vista este cenário, o desenvolvedor optou por escolher uma temática f
 
 <h4> 🤔 Logotipo 🤔 </h4>
 
-O logotipo do Arpeggio foi desenvolvido no aplicativo Canva através de elementos previamente disponíveis na biblioteca do aplicativo. O logotipo foi idealizado para que o produto tivesse a imagem de um seletor de música, diferente de um reprodutor musical. Dessa maneira, a nota musical representa seu tema principal e o círculo tracejado ao fundo remete a capa de álbuns e playlists do estilo synthwave disponíveis no Spotify, como representado na figura a seguir.
-
-<div align="center">
-
-![synthwave](https://github.com/user-attachments/assets/27d18740-578a-4eca-adb3-e48dc929e2dd)
-
-
-</div>
+O logotipo do Arpeggio foi desenvolvido no aplicativo Canva através de elementos previamente disponíveis na biblioteca do aplicativo. O logotipo foi idealizado para que o produto tivesse a imagem de um seletor de música, diferente de um reprodutor musical. Dessa maneira, a nota musical representa seu tema principal e o círculo tracejado ao fundo remete ao estilo synthwave retrô como é possível observar no painel semântico no Behance cujo link é: https://www.behance.net/moodboard/217154785/Synthwave.
 
 <h4> 🤔 Paleta de cores 🤔 </h4>
 
