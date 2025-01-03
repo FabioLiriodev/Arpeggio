@@ -60,10 +60,9 @@ Após o desenvolvimento da ideação no Figma, o resultado obtido foi:
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/e04ebedf-d36f-439e-a8e4-9d73fbcd0b25)
+![image](https://github.com/user-attachments/assets/5d092dd7-81bd-482a-86f7-17dc49e14054)
 
-![image](https://github.com/user-attachments/assets/3cc8bed5-26e7-45b0-87ea-fd4c1a8ea681)
-
+![image](https://github.com/user-attachments/assets/6ff7fa8b-3464-4369-9578-0db2dfe388b0)
 
 
 </div>
@@ -72,17 +71,17 @@ As versões monocromáticas propostas como alternativa para a versão colorida s
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/9ce3f0f7-c756-4587-b2bc-136e014558a4)
+![image](https://github.com/user-attachments/assets/07ca6822-e4ea-4809-9154-5cde2bd9af7f)
 
-![image](https://github.com/user-attachments/assets/71347d7b-0066-475e-bb5e-4b3e4a937396)
+![image](https://github.com/user-attachments/assets/5e4fda35-a6fa-4e52-84cb-a910e7da840d)
 
 </div>
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/254ab221-04f0-4c04-8763-dae5c19dcac6)
+![image](https://github.com/user-attachments/assets/d39a4138-cfc8-4903-81b7-932fb87d666a)
 
-![image](https://github.com/user-attachments/assets/3281eef5-76c8-4961-ad59-96594517e7f8)
+![image](https://github.com/user-attachments/assets/e2a17992-1129-44b9-9eda-f6fb7ea21cc9)
 
 
 </div>
